@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Umme Ruman  
 
-<!--
-**ummeruman9/ummeruman9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Student | Future Data Scientist | Passionate Learner**  
 
-Here are some ideas to get you started:
+I am a 3rd semester BS Artificial Intelligence student from Pakistan.  
+I am passionate about Artificial Intelligence, Machine Learning, and Web Development.  
+Currently, I am learning Python and exploring how programming can be used to solve real-world problems through AI.  
+I enjoy working on creative coding projects and continuously improving my development skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills & Tools  
+**Programming Languages:** Python (Learning), Java, C, HTML, CSS, JavaScript  
+**Development Tools:** Git, Visual Studio Code, NetBeans  
+
+---
+
+## Contact Me  
+**Email:** ummeruman861@gmail.com  
+**LinkedIn:** [www.linkedin.com/in/umme-ruman-3b9055366](https://www.linkedin.com/in/umme-ruman-3b9055366)  
+**GitHub:** [github.com/ummeruman9](https://github.com/ummeruman9)  
