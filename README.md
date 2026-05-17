@@ -2,7 +2,7 @@
 
 **AI Student | Future Data Scientist | Passionate Learner**  
 
-I am a 3rd semester BS Artificial Intelligence student from Pakistan.  
+I am a 4TH semester BS Artificial Intelligence student from Pakistan.  
 I am passionate about Artificial Intelligence, Machine Learning, and Web Development.  
 Currently, I am learning Python and exploring how programming can be used to solve real-world problems through AI.  
 I enjoy working on creative coding projects and continuously improving my development skills.  
